@@ -1,6 +1,6 @@
 name = "cloudflare-coding-challenge-2020"
-type = "javascript"
-account_id = ""
+type = "webpack"
+account_id = "fcdae6ab622b63f63c6653cc7e46335e"
 workers_dev = true
 route = ""
 zone_id = ""
